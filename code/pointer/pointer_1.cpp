@@ -39,7 +39,7 @@ year:
     }
 
     // Print the entered year (which is now the same as currentYear due to pointer update)
-    std::cout << "Entered Year is: " << inputYear << std::endl;
+    std::cout << "Entered Year is: " << currentYear << std::endl;
 
     // Return 0 to indicate successful program execution
     return 0;
