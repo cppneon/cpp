@@ -12,5 +12,7 @@ int main()
 
     std::cout << "ptrToCppVersion pointer : " << ptrToCppVersion << std::endl;
 
+    std::cout << "Value of cppVersion variable is : " << *ptrToCppVersion << std::endl;
+
     return 0;
 }
